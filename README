@@ -1,1 +1,5 @@
-These are the Eagle 5.11 files for the XuLA VGA interface board.
+These are the Eagle 5.11 files for the XuLA VGA interface board I published here:
+http://devbisme.webfactional.com/blogs/devbisme/2011/06/02/simple-vga-interface-xula-fpga-board
+
+For a more recent version of this board, check out the VGA module in the StickIt! repository:
+https://github.com/xesscorp/StickIt
